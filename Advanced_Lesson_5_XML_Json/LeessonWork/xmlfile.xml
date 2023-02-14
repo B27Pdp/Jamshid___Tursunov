@@ -1,0 +1,16 @@
+﻿<people>
+	<person name="Tom">
+		<age>12</age>
+		<company>PDP</company>
+		</person>
+	<person name="Bob">
+		<age>23</age>
+		<company>dfdaf</company>
+		</person>
+	<person name="Liz">
+		<age>23</age>
+		<company>Najot</company>
+		</person>
+	
+	
+</people>

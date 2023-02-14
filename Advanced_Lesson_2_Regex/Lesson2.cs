@@ -14,11 +14,11 @@ namespace Modul_3.Advanced_Lesson_2_Regex
     {
         public static void Start()
         {
-            //RegexExamples.Start();
-            //   // Sletter.Start();
-            //   //RemoveDigit.Start();
+            //RegexExamples.Read();
+            //   // Sletter.Read();
+            //   //RemoveDigit.Read();
             //EventArgs args=new EventArgs();
-            // Actions.Start();
+            // Actions.Read();
 
             //  Console.WriteLine(RandomString.FindTheDifference("jamshid", "dishfmaj"));
 

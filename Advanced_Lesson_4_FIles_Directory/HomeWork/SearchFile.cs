@@ -13,7 +13,7 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.HomeWork
         {
             string path = "C:\\Users\\Windows_10\\Desktop\\MyFiles";
 
-            foreach (var item in MatchedNames("Jamshid",path))
+            foreach (var item in MatchedNames("Jamshid", path))
             {
                 Console.WriteLine(item);
             }
@@ -38,7 +38,9 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.HomeWork
                         result.Add(InnerItem.Name); 
                 }
             }
+
             return result;  
+
 
         }
         

@@ -13,18 +13,21 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory
 
         public static void Main4()
         {
-            // DirectoryExample.Start();
+            // DirectoryExample.Read();
 
-            // DetermineFolder.Start();
+            // DetermineFolder.Read();
 
-            // NumberOfLines.Start();
+            // NumberOfLines.Read();
 
-            //CopyOfFile.Start();
+            //CopyOfFile.Read();
 
-            //MergeFiles.Start(); 
+            //MergeFiles.Read(); 
 
-          //  SearchFile.Start();
-            FilesExamples.Start();  
+            //SearchFile.Read();
+            // FilesExamples.Read();  
+
+            Registration.Start();
+         //  Teacherswork.Read();
         }
 
     }

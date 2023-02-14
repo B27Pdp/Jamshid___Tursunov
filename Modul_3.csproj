@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Advanced_Lesson_4_FIles_Directory\HomeWork\MainClass.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Advanced_Lesson_4_FIles_Directory\HomeWork\MyFiles\" />
+  </ItemGroup>
+
 </Project>

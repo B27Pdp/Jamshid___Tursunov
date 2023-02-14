@@ -2,6 +2,7 @@
 using Modul_3.Advanced_Lesson_2_Regex;
 using Modul_3.Advanced_Lesson_3_DataTime;
 using Modul_3.Advanced_Lesson_4_FIles_Directory;
+using Modul_3.Advanced_Lesson_5_XML_Json;
 
 namespace Modul_3
 {
@@ -9,12 +10,14 @@ namespace Modul_3
     {
         static void Main(string[] args)
         {
-            //Lesson1.Start();
+            //Lesson1.Read();
 
-            //Lesson2.Start();
+            //Lesson2.Read();
 
-         //   Lesson3.Main3();
-            Lesson4.Main4();
+            //   Lesson3.Main3();
+            // Lesson4.Main4();
+
+            Lesson5.Main5();
         }
     }
 }

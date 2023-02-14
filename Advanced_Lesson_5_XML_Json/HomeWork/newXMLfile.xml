@@ -1,0 +1,31 @@
+<creature>
+  <human>
+    <person name="Tom" age="23">
+      <university>this is updated text</university>
+      <ID>123</ID>
+    </person>
+    <person name="Tom">
+      <region>tashkent</region>
+    </person>
+  </human>
+  <animal>
+    <dog name="Tim">
+    </dog>
+    <dog name="Bos">
+      <age>12</age>
+    </dog>
+    <duck name="Kick">
+    </duck>
+  </animal>
+  <animal tpye="Wild">
+    <lion name="Roar">
+      <target>Pig</target>
+    </lion>
+    <wolf>
+      <color>red</color>
+    </wolf>
+    <wolf name="Me">
+      <color>black</color>
+    </wolf>
+  </animal>
+</creature>

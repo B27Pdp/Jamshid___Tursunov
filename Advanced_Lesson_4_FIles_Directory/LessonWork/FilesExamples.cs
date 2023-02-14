@@ -11,20 +11,18 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.LessonWork
         public static void Start()
         {
 
-            string path = @"C:\Users\Windows_10\Desktop\MyFiles\fullname.txt";
+            //string path = @"C:\Users\Windows_10\Desktop\MyFiles\fullname.txt";
 
-            FileInfo fileInf = new FileInfo(path);
+            //FileInfo fileInf = new FileInfo(path);
 
             // fileInf.Replace("C:\\Users\\Windows_10\\Desktop\\MyFiles\\full.txt", "C:\\Users\\Windows_10\\Desktop\\MyFiles\\extra.txt");
-            using (StreamWriter write = fileInf.CreateText())
-            {
-                write.WriteLine("dfsfsf");
-                write.WriteLine("sad");
-                write.WriteLine("dfsdsadafsf");
-            }
+            //using (StreamReader write = fileInf.OpenRead())
+            //{   
+            //    write.ReadLine();
+            //}
 
 
-
+         
         }
 
 
