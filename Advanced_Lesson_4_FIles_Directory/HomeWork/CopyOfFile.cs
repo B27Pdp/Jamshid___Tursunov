@@ -13,9 +13,9 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.HomeWork
         {
             try
             {
-                //string path = "C:\\Users\\Windows_10\\Desktop\\MyFiles\\newfile.txt";
+                //string IIBpath = "C:\\Users\\Windows_10\\Desktop\\MyFiles\\newfile.txt";
                 //string newpath = "C:\\Users\\Windows_10\\Desktop\\MyFiles\\second.txt";
-                //FileInfo newfile = new FileInfo(path);
+                //FileInfo newfile = new FileInfo(IIBpath);
                 //newfile.CopyTo(newpath);
             }
             catch (Exception e)

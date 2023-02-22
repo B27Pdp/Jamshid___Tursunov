@@ -1,0 +1,51 @@
+[
+  {
+    "ID": "84a11f79-3254-47a6-819d-11b764db2e69",
+    "Name": "Jamshid",
+    "Age": 23,
+    "university": {
+      "ID": "dc38e180-d7e1-49d1-b044-0b5208354b4b",
+      "Name": "Uzmu",
+      "FoundedYear": 0
+    },
+    "gender": 0,
+    "sciences": [
+      "Maths",
+      "IT",
+      "Geograpyh",
+      "Psychology",
+      "Chemistry"
+    ]
+  },
+  {
+    "ID": "e673304d-75b2-4e88-9a22-007c20523f2a",
+    "Name": "Abror",
+    "Age": 22,
+    "university": {
+      "ID": "dc38e180-d7e1-49d1-b044-0b5208354b4b",
+      "Name": "Uzmu",
+      "FoundedYear": 0
+    },
+    "gender": 0,
+    "sciences": [
+      "Maths",
+      "Psychology",
+      "Chemistry"
+    ]
+  },
+  {
+    "ID": "8620564e-e87b-4c7e-bc5b-e1420df2637d",
+    "Name": "Sardor",
+    "Age": 25,
+    "university": {
+      "ID": "0a621b40-ac48-412e-9e4a-5f10cc75e68e",
+      "Name": "TATU",
+      "FoundedYear": 0
+    },
+    "gender": 0,
+    "sciences": [
+      "Law",
+      "History"
+    ]
+  }
+]

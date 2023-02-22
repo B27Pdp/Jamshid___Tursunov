@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Name": "Jamshid",
+    "PassportData": "AB1234524",
+    "Age": 23,
+    "Salary": 2500000,
+    "Debt": 0
+  },
+  {
+    "ID": 2,
+    "Name": "Abror",
+    "PassportData": "AB1453543",
+    "Age": 18,
+    "Salary": 15000000,
+    "Debt": -20000
+  },
+  {
+    "ID": 3,
+    "Name": "Javlon",
+    "PassportData": "AB1232324",
+    "Age": 19,
+    "Salary": 1000000,
+    "Debt": -100000
+  },
+  {
+    "ID": 4,
+    "Name": "Sardor",
+    "PassportData": "AB5434524",
+    "Age": 25,
+    "Salary": 25000000,
+    "Debt": 20000
+  },
+  {
+    "ID": 5,
+    "Name": "Ulugbek",
+    "PassportData": "AB1134524",
+    "Age": 26,
+    "Salary": 18000000,
+    "Debt": -10000
+  }
+]

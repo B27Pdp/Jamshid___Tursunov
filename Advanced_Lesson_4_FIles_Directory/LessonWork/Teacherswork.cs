@@ -11,12 +11,12 @@
 
             thisDir = thisDir?.Parent?.Parent?.Parent;
 
-            //thisDir?.CreateSubdirectory("Person\\Employee");
-            //thisDir?.CreateSubdirectory("Person\\Student");
-            //Directory.Delete(thisDir.FullName + "\\Person\\Employee");
-            //Directory.Delete(thisDir.FullName + "\\Person\\Student");
+            //thisDir?.CreateSubdirectory("IPerson\\Employee");
+            //thisDir?.CreateSubdirectory("IPerson\\Student");
+            //Directory.Delete(thisDir.FullName + "\\IPerson\\Employee");
+            //Directory.Delete(thisDir.FullName + "\\IPerson\\Student");
             string[] objName = new string[] { "PersonData1", "PersonData2", "PersonData3" };
-            thisDir = new DirectoryInfo(thisDir.FullName + "\\Person");
+            thisDir = new DirectoryInfo(thisDir.FullName + "\\IPerson");
             foreach (string item in objName)
             {
                 if (!File.Exists(thisDir.FullName + $"\\{item}.txt"))

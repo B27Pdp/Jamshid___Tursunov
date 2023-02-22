@@ -1,0 +1,10 @@
+{
+  "regions": [
+    "newYork",
+    "manhetten",
+    "kanada",
+    "brusli"
+  ],
+  "Name": "Plane",
+  "NumberOfsets": 250
+}

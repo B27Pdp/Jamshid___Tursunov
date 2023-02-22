@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Name": "Jamshid",
+    "PassportData": "AB1234524",
+    "Age": 23,
+    "activitionDuration": 3,
+    "paymentHistory": 2
+  },
+  {
+    "ID": 2,
+    "Name": "Abror",
+    "PassportData": "AB1453543",
+    "Age": 18,
+    "activitionDuration": 1,
+    "paymentHistory": 1
+  },
+  {
+    "ID": 3,
+    "Name": "Javlon",
+    "PassportData": "AB1232324",
+    "Age": 19,
+    "activitionDuration": 3,
+    "paymentHistory": 0
+  },
+  {
+    "ID": 4,
+    "Name": "Sardor",
+    "PassportData": "AB5434524",
+    "Age": 25,
+    "activitionDuration": 0,
+    "paymentHistory": 0
+  },
+  {
+    "ID": 5,
+    "Name": "Ulugbek",
+    "PassportData": "AB1134524",
+    "Age": 26,
+    "activitionDuration": 2,
+    "paymentHistory": 2
+  }
+]

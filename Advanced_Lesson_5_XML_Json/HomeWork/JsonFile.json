@@ -1,0 +1,12 @@
+{
+  "ID": "69ab7dd6-ac81-46b1-961b-cc33c77cd9f7",
+  "Name": "Jamshid",
+  "Age": 23,
+  "Sciences": [
+    "IT",
+    "Maths",
+    "Pythics",
+    "Psychology",
+    "Geography"
+  ]
+}

@@ -11,9 +11,9 @@ namespace Modul_3.Advanced_Lesson_2_Regex.Homework.EventDelegate
 
         public static void Start()
         {
-            //Person person1 = new Person("Azamat");
-            //Person person2 = new Person("Abror");
-            //Person person3 = new Person("Sardor");
+            //IPerson person1 = new IPerson("Azamat");
+            //IPerson person2 = new IPerson("Abror");
+            //IPerson person3 = new IPerson("Sardor");
             ////   Killer killer=new Killer();
             //SecureAgent agent = new SecureAgent();
             //agent.OnSecureAgent += person1.Targeted;

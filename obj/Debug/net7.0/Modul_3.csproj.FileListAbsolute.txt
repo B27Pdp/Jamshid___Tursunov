@@ -13,3 +13,5 @@ C:\Users\Windows_10\source\repos\Modul_3\obj\Debug\net7.0\refint\Modul_3.dll
 C:\Users\Windows_10\source\repos\Modul_3\obj\Debug\net7.0\Modul_3.pdb
 C:\Users\Windows_10\source\repos\Modul_3\obj\Debug\net7.0\Modul_3.genruntimeconfig.cache
 C:\Users\Windows_10\source\repos\Modul_3\obj\Debug\net7.0\ref\Modul_3.dll
+C:\Users\Windows_10\source\repos\Modul_3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Windows_10\source\repos\Modul_3\obj\Debug\net7.0\Modul_3.csproj.CopyComplete

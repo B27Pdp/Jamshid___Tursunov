@@ -11,9 +11,9 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.LessonWork
         public static void Start()
         {
 
-            //string path = @"C:\Users\Windows_10\Desktop\MyFiles\fullname.txt";
+            //string IIBpath = @"C:\Users\Windows_10\Desktop\MyFiles\fullname.txt";
 
-            //FileInfo fileInf = new FileInfo(path);
+            //FileInfo fileInf = new FileInfo(IIBpath);
 
             // fileInf.Replace("C:\\Users\\Windows_10\\Desktop\\MyFiles\\full.txt", "C:\\Users\\Windows_10\\Desktop\\MyFiles\\extra.txt");
             //using (StreamReader write = fileInf.OpenRead())

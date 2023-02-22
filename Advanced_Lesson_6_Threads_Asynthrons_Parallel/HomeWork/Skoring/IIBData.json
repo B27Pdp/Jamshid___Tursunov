@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Name": "Jamshid",
+    "PassportData": "AB1234524",
+    "Age": 23
+  },
+  {
+    "ID": 2,
+    "Name": "Abror",
+    "PassportData": "AB1453543",
+    "Age": 18
+  },
+  {
+    "ID": 3,
+    "Name": "Javlon",
+    "PassportData": "AB1232324",
+    "Age": 19
+  },
+  {
+    "ID": 4,
+    "Name": "Sardor",
+    "PassportData": "AB5434524",
+    "Age": 25
+  },
+  {
+    "ID": 5,
+    "Name": "Ulugbek",
+    "PassportData": "AB1134524",
+    "Age": 26
+  }
+]

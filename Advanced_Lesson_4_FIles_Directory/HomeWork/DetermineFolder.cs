@@ -5,8 +5,8 @@
         public static void Start()
         {
 
-            //string path = "C:\\Users\\Windows_10\\Desktop\\MyFiles";
-            //Console.WriteLine(Determine(path));
+            //string IIBpath = "C:\\Users\\Windows_10\\Desktop\\MyFiles";
+            //Console.WriteLine(Determine(IIBpath));
 
 
         }

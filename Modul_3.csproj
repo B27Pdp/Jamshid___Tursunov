@@ -9,10 +9,15 @@
 
   <ItemGroup>
     <Compile Remove="Advanced_Lesson_4_FIles_Directory\HomeWork\MainClass.cs" />
+    <Compile Remove="Advanced_Lesson_5_XML_Json\HomeWork\JsonCRUD.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Advanced_Lesson_4_FIles_Directory\HomeWork\MyFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>

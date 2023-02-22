@@ -84,7 +84,7 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.HomeWork
                     }
                     while (true) 
                     {
-                        Console.Write("Create Password=> ");
+                        Console.Write("create Password=> ");
                         Password = Console.ReadLine();
                         if (Regex.IsMatch(Password, @"[a-z]*[A-Z]*\d*[\!-/]*") && Password.Length >= 8)
                         {

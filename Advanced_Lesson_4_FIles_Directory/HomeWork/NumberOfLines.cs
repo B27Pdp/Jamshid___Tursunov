@@ -10,9 +10,9 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.HomeWork
     {
         public static void Start()
         {
-            //string path = "C:\\Users\\Windows_10\\Desktop\\MyFiles\\newfile.txt";
+            //string IIBpath = "C:\\Users\\Windows_10\\Desktop\\MyFiles\\newfile.txt";
             //int i = 0;
-            //foreach (var item in File.ReadLines(path))
+            //foreach (var item in File.ReadLines(IIBpath))
             //    i++;    
             //Console.WriteLine(i);
 

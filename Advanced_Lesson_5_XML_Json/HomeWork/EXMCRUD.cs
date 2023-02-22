@@ -28,7 +28,7 @@ namespace Modul_3.Advanced_Lesson_5_XML_Json.HomeWork
                 if (element != null)
                 {
                     foreach (XmlNode item in element)
-                    {
+                    { 
                         foreach (XmlNode innneritem in item)
                         {
                             Console.WriteLine(innneritem?.Attributes?.GetNamedItem("name")?.Value);
@@ -38,7 +38,7 @@ namespace Modul_3.Advanced_Lesson_5_XML_Json.HomeWork
                                 Console.Write(item3?.Attributes?.GetNamedItem("name") + "  ");
                                 Console.Write(item3.Name + "  ");
                                 Console.Write(item3.InnerText + "  ");
-                            }
+                            } 
                             Console.WriteLine();
                         }
 
@@ -111,7 +111,7 @@ namespace Modul_3.Advanced_Lesson_5_XML_Json.HomeWork
            
             try
             {
-                string path = @"C:\Users\Windows_10\source\repos\Modul_3\Advanced_Lesson_5_XML_Json\HomeWork\Create.xml";
+                string path = @"C:\Users\Windows_10\source\repos\Modul_3\Advanced_Lesson_5_XML_Json\HomeWork\create.xml";
                 XmlDocument myexml = new XmlDocument();
                 myexml.Load(path);
                 XmlElement? root = myexml.DocumentElement;
@@ -152,7 +152,10 @@ namespace Modul_3.Advanced_Lesson_5_XML_Json.HomeWork
             newdoc.Load(path);
            // string Tom = "Tom";
             XmlElement? root = newdoc.DocumentElement;
-            XmlNode? node = root.ChildNodes[0].ChildNodes[0].ChildNodes[0];
+
+           
+
+            XmlNode? node = root?.ChildNodes[0]?.ChildNodes[0]?.ChildNodes[0];
             node.InnerText= "this is updated text";
             Console.WriteLine(node.InnerText);
             newdoc.Save(path);

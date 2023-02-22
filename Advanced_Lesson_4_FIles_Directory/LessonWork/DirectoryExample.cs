@@ -14,7 +14,7 @@ namespace Modul_3.Advanced_Lesson_4_FIles_Directory.LessonWork
 
             //DirectoryInfo Myfile = new DirectoryInfo("C:\\Users\\Windows_10\\Desktop\\MyFiles\\Myfile.txt");
 
-            //Myfile.Create();
+            //Myfile.create();
 
 
 

@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name": "PDP",
+    "ID": 1,
+    "friends": [
+      
+        "Najot_ta'lim",
+        "IT_Labs",
+        "IT_world",
+      {
+        "odilbek": "creature",
+        "bekhzod": "manager",
+        "ravshan": "mentor"
+      }
+    ]
+
+  }
+
+}
