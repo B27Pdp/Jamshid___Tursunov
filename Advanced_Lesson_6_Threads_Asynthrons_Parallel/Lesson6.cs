@@ -26,7 +26,7 @@ namespace Modul_3.Advanced_Lesson_6_Threads_Asynthrons_Parallel
             // Asynchronize.Run();
             //  Near.Run();
 
-            MainClass.Run();
+            Shop.Run();
         }
 
     }

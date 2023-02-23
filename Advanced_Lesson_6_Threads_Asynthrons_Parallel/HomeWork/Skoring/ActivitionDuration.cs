@@ -8,6 +8,9 @@ namespace Modul_3.Advanced_Lesson_6_Threads_Asynthrons_Parallel.HomeWork.Skoring
 {
     enum ActivitionDuration:byte
     {
-        LessThanSixMonth, LessThanAYear,LessThanTwoYear,MoreThanTwoYear
+        LessThanSixMonth,
+        LessThanAYear,
+        LessThanTwoYear,
+        MoreThanTwoYear
     }
 }

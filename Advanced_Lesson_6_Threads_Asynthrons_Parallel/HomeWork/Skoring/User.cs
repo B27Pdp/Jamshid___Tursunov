@@ -27,6 +27,9 @@ namespace Modul_3.Advanced_Lesson_6_Threads_Asynthrons_Parallel.HomeWork.Skoring
 
         public int Debt { get; set; }
 
+        public User()
+        {
 
+        }
     }
 }

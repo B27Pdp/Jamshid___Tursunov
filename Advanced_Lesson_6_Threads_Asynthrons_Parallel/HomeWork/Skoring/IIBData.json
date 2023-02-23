@@ -3,30 +3,35 @@
     "ID": 1,
     "Name": "Jamshid",
     "PassportData": "AB1234524",
-    "Age": 23
+    "Age": 23,
+    "IsMarried": true
   },
   {
     "ID": 2,
     "Name": "Abror",
     "PassportData": "AB1453543",
-    "Age": 18
+    "Age": 18,
+    "IsMarried": false
   },
   {
     "ID": 3,
     "Name": "Javlon",
     "PassportData": "AB1232324",
-    "Age": 19
+    "Age": 19,
+    "IsMarried": false
   },
   {
     "ID": 4,
     "Name": "Sardor",
     "PassportData": "AB5434524",
-    "Age": 25
+    "Age": 25,
+    "IsMarried": true
   },
   {
     "ID": 5,
     "Name": "Ulugbek",
     "PassportData": "AB1134524",
-    "Age": 26
+    "Age": 26,
+    "IsMarried": true
   }
 ]

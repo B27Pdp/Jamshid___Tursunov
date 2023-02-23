@@ -13,7 +13,7 @@
     "PassportData": "AB1453543",
     "Age": 18,
     "Salary": 15000000,
-    "Debt": -20000
+    "Debt": 20000
   },
   {
     "ID": 3,
@@ -21,7 +21,7 @@
     "PassportData": "AB1232324",
     "Age": 19,
     "Salary": 1000000,
-    "Debt": -100000
+    "Debt": 100000
   },
   {
     "ID": 4,
@@ -37,6 +37,6 @@
     "PassportData": "AB1134524",
     "Age": 26,
     "Salary": 18000000,
-    "Debt": -10000
+    "Debt": 10000
   }
 ]
